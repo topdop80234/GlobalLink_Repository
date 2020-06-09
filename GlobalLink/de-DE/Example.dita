@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="iq-bot-ha-dr-cluster-overview" xml:lang="en-US">
     <title>Ha Block-Konfiguration überblick</title>
-    <shortdesc>Sich stützen <ph keyref="enterprise"/> Aktualisierte Ihr Rechenzentrum, baut einen ha Block zusammen.
-        Folgen Sie Ihren Firmamethoden und -verfahren für das Einführen Ihres Rechenzentrumblockes. </shortdesc>
+    <shortdesc>Sich stützen<ph keyref="enterprise"/>Aktualisierte Ihr Rechenzentrum, baut einen ha Block zusammen.Folgen Sie Ihren Firmamethoden und -verfahren für das Einführen Ihres Rechenzentrumblockes.</shortdesc>
     <prolog>
         <author>Automatisierung überall</author>
         <author type="contributor">bethany.kanui</author>
@@ -30,56 +29,56 @@
     </prolog>
     <conbody>
         <p>UPDATE HIER FÜR DEMO-ha Blöcke schützen Dienstleistungen und
-            Daten im Falle eines Bediener- oder Service-Ausfalls. Das folgende ist eine Liste von Prozessen
-            verbunden mit Blöcken. <ul id="ul_pxl_mgk_chb">
+            Daten im Falle eines Bediener- oder Service-Ausfalls.Das folgende ist eine Liste von Prozessen
+            verbunden mit Blöcken.<ul id="ul_pxl_mgk_chb">
                 <li><b>Datenbankreproduktion</b>- Bauen Sie synchrone Reproduktion zwischen zusammen
                     Primäraufstellungsort (aktiv) und Sekundäraufstellungsort (passive) sicherzustellen Bediener DES MS SQL
-                    übereinstimmung im Falle eines Datenbanknullpunktausfalls. </li>
+                    übereinstimmung im Falle eines Datenbanknullpunktausfalls.</li>
                 <li><b>Stillstandszeit</b>- Die Menge der Stillstandszeit hängt von der Zahl Wiederanlauf Versuchen ab
                     der Verwalter baut für die Primärbedienerdienstleistungen, die Zahl von zusammen
                     failovers ließen pro Zahl von Stunden und die failback Konfiguration.</li>
                 <li><b>Failback</b>- Nachdem der Primärbediener zum Normal zurückgebracht ist, kann die Arbeitsbelastung
-                    seien zurück von den Sekundärbedienern zu den Primärbedienern ausgefallen Sie. Das Primär
+                    seien zurück von den Sekundärbedienern zu den Primärbedienern ausgefallen Sie.Das Primär
                     Bediener wird der aktive Bediener wieder.<p>Wiederherstellung von Betrieben zum Primär
                         System oder Aufstellungsort nach einer failover oder Unfallwiederaufnahme auf einem Sekundärsystem
-                        oder Aufstellungsort. </p></li>
+                        oder Aufstellungsort.</p></li>
                 <li><b>Failover</b>- Wenn einer der Primärbediener ausfällt, die Arbeitsbelastung von verlassen
-                    Bediener verschiebt automatisch sich auf den Sekundärbediener im Block. Dieses
-                    automatischer Prozeß wird failover genannt. Failover stellt ununterbrochene Verwendbarkeit sicher
-                    von den Anwendungen und von den Daten. Wenn failover durchführt, wird der Sekundärbediener
-                    der aktive Bediener. <p>Wenn a (Primär) System eine Störung oder einen Ausfall ermittelt, es
-                        bringt automatisch Steuerung auf a (Sekundär) doppeltes System. Dieses
+                    Bediener verschiebt automatisch sich auf den Sekundärbediener im Block.Dieses
+                    automatischer Prozeß wird failover genannt.Failover stellt ununterbrochene Verwendbarkeit sicher
+                    von den Anwendungen und von den Daten.Wenn failover durchführt, wird der Sekundärbediener
+                    der aktive Bediener.<p>Wenn a (Primär) System eine Störung oder einen Ausfall ermittelt, es
+                        bringt automatisch Steuerung auf a (Sekundär) doppeltes System.Dieses
                         nach trifft auf ha Blöcke zu, denen failover von einem Bediener ist
                     andere.</p></li>
                 <li><b>Kontrollierter Leistungsrückgang</b>- Gewährende Blockprozeßabhängigkeiten zum zu funktionieren
                     würdevoll auf einem verminderten Primäraufstellungsort.</li>
                 <li><b>Redundanz</b>- Ha Block-Gebrauchredundanz, zum der einzelnen Punkte des Ausfalls zu verhindern
-                    (SPOF), wie ein verlassener Bediener oder ein Service. Ha Blöcke schließen Primär mit ein (aktiv)
+                    (SPOF), wie ein verlassener Bediener oder ein Service.Ha Blöcke schließen Primär mit ein (aktiv)
                     Bediener die Wirt Dienstleistungen oder Datenbanken und Sekundär (passive) Bediener das
-                    bewirten Sie wiederholte Kopien der Dienstleistungen und der Datenbanken. </li>
+                    bewirten Sie wiederholte Kopien der Dienstleistungen und der Datenbanken.</li>
                 <li><b>Reproduktion</b>- Die Sekundärbediener haben die gleiche Konfiguration und
                     Software als die Primärbediener, sind sie ein Duplikat (überflüssige Kopie) von
-                    hauptsächlich. Daten werden (kopiert) von den Primärbedienern zum Sekundär wiederholt
-                    Bediener. </li>
+                    hauptsächlich.Daten werden (kopiert) von den Primärbedienern zum Sekundär wiederholt
+                    Bediener.</li>
             </ul></p>
-        <p>Ha und Dr für stützen <ph keyref="enterprise"/>, bauen Sie die vorgewählten Bestandteile innen zusammen
+        <p>Ha und Dr für stützen<ph keyref="enterprise"/>, bauen Sie die vorgewählten Bestandteile innen zusammen
             Ihr Rechenzentrum für ha.</p>
         <ul id="ul_tpw_t44_bhb"> 
             <li><b>Blockbestandteile</b>- Ein Block ist Bediener eines Satzes (Nullpunkte) die vorbei angeschlossen werden
-                körperliche Kabel und Software. In einem ha Klima sind diese Blöcke der Bediener
-                im gleichen körperlichen Rechenzentrum sein dürfen. <p>
+                körperliche Kabel und Software.In einem ha Klima sind diese Blöcke der Bediener
+                im gleichen körperlichen Rechenzentrum sein dürfen.<p>
                     <note>Im Kontext der Blöcke, zwar in den Bezeichnungen Bediener, im Wirt und im Nullpunkt jeder
                         haben Sie spezifische Bedeutung, sie werden verwendet häufig austauschbar.</note>
                 </p><ul id="ul_a4m_shs_xgb">
                     <li><b>Blockgruppe (Rolle)</b>- Gruppe gesammelte Dienstleistungen die failover
-                        zusammen und seien Sie von einander abhängig. </li>
+                        zusammen und seien Sie von einander abhängig.</li>
                     <li><b>Wirt</b>- Die Blockmaschine, die die Dienstleistungen bewirtet.</li>
                     <li><b>Nullpunkt</b>- Eine generische Bezeichnung für eine Maschine in einem Block.</li>
-                    <li><b>Primärnullpunkt</b>- Der aktive Nullpunkt im Block. Die Maschine wo
-                        Produktion Tätigkeiten Durchlauf. </li>
+                    <li><b>Primärnullpunkt</b>- Der aktive Nullpunkt im Block.Die Maschine wo
+                        Produktion Tätigkeiten Durchlauf.</li>
                     <li><b>Sekundärnullpunkt</b>- Die Maschine, die als das Ziel in gekennzeichnet wird
-                        Fall eines failover. Der Sekundärnullpunkt ist ein passives Duplikat von
-                        Primärnullpunkt. </li>
+                        Fall eines failover.Der Sekundärnullpunkt ist ein passives Duplikat von
+                        Primärnullpunkt.</li>
                     <li><b>Bediener</b>- Die Maschine im Block angebracht mit dem Bedienerfunktionieren
                         System.</li>
                 </ul></li>
@@ -91,7 +90,7 @@
                 Dienstleistungen.</li>
             <li><b>Aufstellungsortausfälle in den multisite Organisationen</b>- verursacht durch Naturkatastrophen, Energie
                 Störungen oder Konnektivitätstörungen.</li>
-            <li><b>System und Kleinteilausfälle</b>- Beeinflussen der Hardwareeinheiten wie CPUs,
+            <li><b>System und Kleinteilausfälle</b>- Hardwareeinheiten wie CPUs beeinflussend,
                 Antriebe, Gedächtnis, Netzadapter und Spg.Versorgungsteile.</li>
         </ul>
         <p>Diese Fähigkeit, Ausfall anzufassen läßt Blöcke zwei Anforderungen entsprechen, die typisch sind
