@@ -131,7 +131,7 @@ msgstr "L'URL de source est absent"
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/insert_object.js:22
 msgctxt "Decomail insert object dialog"
 msgid "Invalid URL entered"
-msgstr "L'URL inadmissible est entré"
+msgstr "URL inadmissible écrit"
 
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/text_format.js:6
 msgctxt "Decomail format text dialog"
@@ -1543,7 +1543,7 @@ msgstr "Date modifiée"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:215
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5145
 msgid "No proofing group found."
-msgstr "Aucun groupe d'imperméabilisation n'a trouvé."
+msgstr "Aucun groupe d'imperméabilisation trouvé."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:235
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5165
@@ -1819,7 +1819,7 @@ msgstr "URL courant :"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-edit-link-url.template.html:29
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1758
 msgid "No links found"
-msgstr "Lien n'a pas trouvé"
+msgstr "Aucuns liens trouvés"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-message-stats.template.html:18
 msgid "Add:"
@@ -4176,7 +4176,7 @@ msgstr "Domaine approuvé d'email créé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Domaine approuvé d'email supprimé"
+msgstr "Le domaine approuvé d'email a supprimé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Charge d'arbre interrompue"
+msgstr "La charge d'arbre s'est interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -5957,7 +5957,7 @@ msgstr "Ce n'est pas un article valide"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Aucun article n'a trouvé."
+msgstr "Aucun article trouvé."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6492,7 +6492,7 @@ msgstr "Préparation de la campagne"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:69
 msgid "Campaign Prepared"
-msgstr "La campagne a préparé"
+msgstr "Campagne préparée"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:76
 msgid "Next Step: Audience Filter"
@@ -7341,7 +7341,7 @@ msgstr "Campagnes actives"
 #: ../../../web/Web.Ux/ux/js/ng/app/stale-obj-alert/stale-dialog.service.js:83
 #: ../../../web/Web.Ux/ux/js/ng/component/stale-obj-watcher/stale-obj-notifier.service.js:125
 msgid "Changes Detected"
-msgstr "Changements détectés"
+msgstr "Les changements ont détecté"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/dirty-obj-reminder/dirty-obj-reminder.directive.js:33
 msgid ""
@@ -7363,7 +7363,7 @@ msgstr "Remplacé 1 exemple"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:67
 msgid "Nothing replaced"
-msgstr "Rien remplacé"
+msgstr "Rien n'a remplacé"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:73
 msgid "Replaced "
@@ -7643,7 +7643,7 @@ msgstr "La preuve envoient accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Auditez et Preuve accomplie"
+msgstr "Auditez et La preuve a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -9652,7 +9652,7 @@ msgstr "Note:Le compte de caractère final et le nombre de messages peuvent chan
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video"
-msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo"
+msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo"
 
 #: ../../../web/Web.Ux/ux/js/pages/new.js:196
 msgid "Upload more files or create and organize your items"
@@ -10028,7 +10028,7 @@ msgstr "Nom d'application requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
-msgstr "Mot de passe de certificat requis"
+msgstr "Le mot de passe de certificat a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:942
 msgid "Valid Certificate File Required"
@@ -10036,7 +10036,7 @@ msgstr "Dossier valide de certificat requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
-msgstr "La clef de Google api a exigé"
+msgstr "Clef de Google api requise"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:1064
 msgid "Rename The Item"
@@ -10645,7 +10645,7 @@ msgstr "Valeur capturée :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Clef capturée :1."
+msgstr "La clef a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
