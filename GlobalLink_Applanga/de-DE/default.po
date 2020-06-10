@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet gelöscht"
+msgstr "Anerkanntes email Gebiet löschte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4252,11 +4252,11 @@ msgstr "Berichten Sie über Störung"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:777
 msgid "User Deactivated"
-msgstr "Benutzer entaktiviert"
+msgstr "Benutzer entaktivierte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "Benutzer reaktivierte"
+msgstr "Benutzer reaktiviert"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -5798,7 +5798,7 @@ msgstr "Suchplattform"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Baumlast unterbrochen"
+msgstr "Baumlast unterbrach"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6367,7 +6367,7 @@ msgstr "Design erfolgreich gespeichert"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
 msgid "Permission Denied"
-msgstr "Erlaubnis verweigerte"
+msgstr "Erlaubnis verweigert"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:261
 msgid "Server Error"
@@ -6528,7 +6528,7 @@ msgstr "Senden der Anzeigen"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:96
 msgid "Messages Sent"
-msgstr "Anzeigen gesendet"
+msgstr "Anzeigen sendeten"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:104
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/camp-processing-state.model.js:122
@@ -6667,7 +6667,7 @@ msgstr "Verbotene Adresse (global)"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:118
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:226
 msgid "Total Messages Queued"
-msgstr "Gesamtanzeigen angestanden"
+msgstr "Gesamtanzeigen standen an"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:144
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:250
@@ -7402,7 +7402,7 @@ msgstr "Daß Akte Art nicht gestützt wird."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Maximale Anzeige Größe von %1 KBs überstiegen.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
+msgstr "Maximale Anzeige Größe von %1 KBs überstieg.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7643,7 +7643,7 @@ msgstr "Beweis senden durchgeführt"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Bilanz u. Beweis durchgeführt"
+msgstr "Bilanz u. Beweis führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -9413,7 +9413,7 @@ msgstr "Verbindung Text"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 Buchstaben verließen"
+msgstr "%1 Buchstaben gelassen"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9586,7 +9586,7 @@ msgstr "Außer verbinden Sie Details"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Kein Filter angewendet"
+msgstr "Kein Filter traf zu"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9605,7 +9605,7 @@ msgstr "Erfolgreich vermischt"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "Manuelles Mischen fiel aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
+msgstr "Manuelles Mischen fällt aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10024,7 +10024,7 @@ msgstr "Störung beim Ändern der Schablone."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Anwendung Name erforderte"
+msgstr "Anwendung Name erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
