@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: i18n v2.0\n"
+"Project-Id-Version: i18n v1.0\n"
 "POT-Creation-Date: 2020-02-20 01:28:37+0000\n"
 "PO-Revision-Date: 2013-05-07 18:30+0800\n"
 "Language-Team: Team 42\n"
