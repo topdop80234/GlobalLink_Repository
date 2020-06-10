@@ -1518,7 +1518,7 @@ msgstr "Senden Sie zum Rückholweg"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:184
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5114
 msgid "Proof Sent"
-msgstr "Beweis gesendet"
+msgstr "Beweis gesendet worden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:187
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5117
@@ -2299,7 +2299,7 @@ msgstr "Datum ausgelöst"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "Fall ausgelöst"
+msgstr "Fall löste aus"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet gelöscht"
+msgstr "Anerkanntes email Gebiet löschte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4505,7 +4505,7 @@ msgstr "Warnung!Dieses ist unzulässiges JSON."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "Störung!Kein Schema gefunden."
+msgstr "Störung!Kein Schema fand."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -4807,7 +4807,7 @@ msgstr "Unterzeichnet"
 
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:193
 msgid "Not Subscribed"
-msgstr "Nicht unterzeichnet worden"
+msgstr "Nicht unterzeichnet"
 
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:200
 msgid "Subscriptions"
@@ -5780,7 +5780,7 @@ msgstr "Es gab die Probleme, die Einzelteile verschieben, versuchen bitte noch e
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt worden"
+msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt"
 msgstr[1] "%1 Einzelteile (aus %2 heraus) vorgewählt"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
@@ -6458,7 +6458,7 @@ msgstr "Schreibtisch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:284
 msgid "%1 Inbox Preview tests out of %2 used in %3"
-msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendet in %3"
+msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendeten in %3"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:335
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:390
@@ -6504,7 +6504,7 @@ msgstr "Publikum Filter, der errichtet wird"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Publikum Filter errichtete"
+msgstr "Publikum Filter errichtet"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -6528,7 +6528,7 @@ msgstr "Senden der Anzeigen"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:96
 msgid "Messages Sent"
-msgstr "Anzeigen gesendet"
+msgstr "Anzeigen sendeten"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:104
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/camp-processing-state.model.js:122
@@ -7157,7 +7157,7 @@ msgstr "Partner nur bereitgestellt"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
-msgstr "stellten Benutzer und Partner zur Verfügung"
+msgstr "Benutzer und Partner bereitgestellt"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook.component.js:88
 msgid ""
@@ -7246,7 +7246,7 @@ msgstr "Wählen Sie ein Antwort-Profil vor"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/edp-data-manager/edp-data-manager.component.js:135
 msgid "Settings saved successfully"
-msgstr "Einstellungen speicherten erfolgreich"
+msgstr "Einstellungen erfolgreich gespeichert"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/facebook-audiences/facebook-audiences.component.js:36
 msgid "Ad Accounts"
@@ -9413,7 +9413,7 @@ msgstr "Verbindung Text"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 Buchstaben verließen"
+msgstr "%1 Buchstaben gelassen"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9595,7 +9595,7 @@ msgstr "Datenbanksuchroutine-Warnung"
 #: ../../../web/Web.Ux/ux/js/pages/main.js:157
 #: ../../../web/Web.Ux/ux/js/pages/main.js:173
 msgid "Access Denied"
-msgstr "Zugang verweigert"
+msgstr "Zugang verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:40
 msgid "Successfully Merged"
@@ -9605,7 +9605,7 @@ msgstr "Erfolgreich vermischt"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "Manuelles Mischen fiel aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
+msgstr "Manuelles Mischen fällt aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10036,7 +10036,7 @@ msgstr "Gültige Bescheinigung Akte erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
-msgstr "Google API Schlüssel erforderte"
+msgstr "Google API Schlüssel erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:1064
 msgid "Rename The Item"
@@ -10636,7 +10636,7 @@ msgstr[1] "%1 @replies"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Text Matched"
-msgstr "Text zusammengebracht"
+msgstr "Text paßte zusammen"
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
