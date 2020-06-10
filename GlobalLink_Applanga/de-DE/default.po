@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:217
-msgctxt "Decomail editor plugin"
+msgctxt "Decomail editor plugin PJ MAKING CHANGE"
 msgid "Insert Line Break"
 msgstr "Setzen Sie Linie Bruch ein"
 
@@ -2099,7 +2099,7 @@ msgstr "Alle Verbindungen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/link-tracking/link-tracking.template.html:32
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2132
 msgid "Excluded"
-msgstr "Ausgeschlossen worden"
+msgstr "Ausgeschlossen"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/link-tracking/link-tracking.template.html:39
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2139
@@ -2299,7 +2299,7 @@ msgstr "Datum ausgelöst"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "Fall ausgelöst"
+msgstr "Fall löste aus"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -3029,7 +3029,7 @@ msgstr "Gesamtanzeigen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:8
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2964
 msgid "Date Completed"
-msgstr "Datum durchgeführt"
+msgstr "Datum führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:12
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2968
@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet gelöscht"
+msgstr "Anerkanntes email Gebiet löschte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4341,7 +4341,7 @@ msgstr "<brdiv>< class='dialog-content'>"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Ajax Anruf unterbrochen"
+msgstr "Ajax Anruf unterbrach"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -4803,7 +4803,7 @@ msgstr "Z.Z. ansehend"
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:179
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:186
 msgid "Subscribed"
-msgstr "Unterzeichnet worden"
+msgstr "Unterzeichnet"
 
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:193
 msgid "Not Subscribed"
@@ -5404,7 +5404,7 @@ msgstr "(Zugang) %1"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4311
 msgid "no results found"
-msgstr "keine Resultate fanden"
+msgstr "keine Resultate gefunden"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4330
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4331
@@ -5780,7 +5780,7 @@ msgstr "Es gab die Probleme, die Einzelteile verschieben, versuchen bitte noch e
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "Einzelteil %1 (aus %2 heraus) wählte vor"
+msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt"
 msgstr[1] "%1 Einzelteile (aus %2 heraus) vorgewählt"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
@@ -5798,7 +5798,7 @@ msgstr "Suchplattform"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Baumlast unterbrach"
+msgstr "Baumlast unterbrochen"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6367,7 +6367,7 @@ msgstr "Design erfolgreich gespeichert"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
 msgid "Permission Denied"
-msgstr "Erlaubnis verweigert"
+msgstr "Erlaubnis verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:261
 msgid "Server Error"
@@ -6504,7 +6504,7 @@ msgstr "Publikum Filter, der errichtet wird"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Publikum Filter errichtet"
+msgstr "Publikum Filter errichtete"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -6528,7 +6528,7 @@ msgstr "Senden der Anzeigen"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:96
 msgid "Messages Sent"
-msgstr "Anzeigen sendeten"
+msgstr "Anzeigen gesendet"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:104
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/camp-processing-state.model.js:122
@@ -7635,7 +7635,7 @@ msgstr "Entwurf"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:251
 msgid "Audit run completed"
-msgstr "Bilanzdurchlauf durchgeführt"
+msgstr "Bilanzdurchlauf führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:257
 msgid "Proof send completed"
@@ -9413,7 +9413,7 @@ msgstr "Verbindung Text"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 Buchstaben gelassen"
+msgstr "%1 Buchstaben verließen"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9605,7 +9605,7 @@ msgstr "Erfolgreich vermischt"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "Manuelles Mischen fällt aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
+msgstr "Manuelles Mischen fiel aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -9652,7 +9652,7 @@ msgstr "Anmerkung:Schlußzeichenzählimpuls und Zahl der Anzeigen können sich v
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video"
-msgstr "Maximale Anzeige Größe von %1 KBs überstiegen.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes"
+msgstr "Maximale Anzeige Größe von %1 KBs überstieg.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes"
 
 #: ../../../web/Web.Ux/ux/js/pages/new.js:196
 msgid "Upload more files or create and organize your items"
@@ -10028,11 +10028,11 @@ msgstr "Anwendung Name erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
-msgstr "Bescheinigung Kennwort erfordert"
+msgstr "Bescheinigung Kennwort erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:942
 msgid "Valid Certificate File Required"
-msgstr "Gültige Bescheinigung Akte erforderte"
+msgstr "Gültige Bescheinigung Akte erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
@@ -10636,7 +10636,7 @@ msgstr[1] "%1 @replies"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Text Matched"
-msgstr "Text paßte zusammen"
+msgstr "Text zusammengebracht"
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
@@ -10645,7 +10645,7 @@ msgstr "Wert gefangengenommen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Schlüssel gefangengenommen:1."
+msgstr "Schlüssel nahm gefangen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
