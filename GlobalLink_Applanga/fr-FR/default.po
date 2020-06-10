@@ -131,7 +131,7 @@ msgstr "L'URL de source est absent"
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/insert_object.js:22
 msgctxt "Decomail insert object dialog"
 msgid "Invalid URL entered"
-msgstr "URL inadmissible écrit"
+msgstr "L'URL inadmissible est entré"
 
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/text_format.js:6
 msgctxt "Decomail format text dialog"
@@ -1647,7 +1647,7 @@ msgstr "Bout 24 heures"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-sent-metrics.template.html:6
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1897
 msgid "Total sent"
-msgstr "Total envoyé"
+msgstr "Le total a envoyé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/end-campaign.template.html:5
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1624
@@ -1964,7 +1964,7 @@ msgstr "Disques de #"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats-versions.template.html:17
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1926
 msgid "No versions found."
-msgstr "Aucunes versions trouvées."
+msgstr "Version n'a pas trouvé."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats.template.html:11
 msgid "Pre Token Exchange"
@@ -3534,7 +3534,7 @@ msgstr "Édité"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Bout édité :"
+msgstr "Le bout a édité :"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4172,11 +4172,11 @@ msgstr "OUTRE DE"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:757
 msgid "Approved Email Domain Created"
-msgstr "Domaine approuvé d'email créé"
+msgstr "Le domaine approuvé d'email a créé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Domaine approuvé d'email supprimé"
+msgstr "Le domaine approuvé d'email a supprimé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4256,7 +4256,7 @@ msgstr "Utilisateur mis hors tension"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "Utilisateur réactivé"
+msgstr "L'utilisateur a réactivé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -4505,7 +4505,7 @@ msgstr "AttentionC'est JSON inadmissible."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "ErreurAucun schéma trouvé."
+msgstr "ErreurAucun schéma n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5295,7 +5295,7 @@ msgstr "(Messages supprimés)"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4067
 msgid "Any Messages Deleted"
-msgstr "Tous les messages ont supprimé"
+msgstr "Tous messages supprimés"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4072
 msgid "(Facebook Likes)"
@@ -5780,8 +5780,8 @@ msgstr "Il y avait des problèmes déplaçant des articles, essayent svp encore.
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "article %1 (sur %2) choisi"
-msgstr[1] "%1 articles (sur %2) ont choisi"
+msgstr[0] "l'article %1 (sur %2) a choisi"
+msgstr[1] "%1 articles (sur %2) choisis"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
 msgid "%1 item"
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Charge d'arbre interrompue"
+msgstr "La charge d'arbre s'est interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -5957,7 +5957,7 @@ msgstr "Ce n'est pas un article valide"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Aucun article trouvé."
+msgstr "Aucun article n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6185,7 +6185,7 @@ msgstr "des cellules de valeur de champ seront ajoutées.Souhaitez-vous procéde
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:358
 msgid " field values added."
-msgstr "valeurs de champ supplémentaires."
+msgstr "les valeurs de champ se sont ajoutées."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:393
 msgid " has been successfully deleted."
@@ -6362,12 +6362,12 @@ msgstr "Le concepteur content est temporairement indisponible.Veuillez contacter
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:257
 msgid "Design saved successfully"
-msgstr "Conception sauvée avec succès"
+msgstr "La conception a économisé avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
 msgid "Permission Denied"
-msgstr "Permission niée"
+msgstr "La permission a nié"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:261
 msgid "Server Error"
@@ -6528,7 +6528,7 @@ msgstr "Envoi des messages"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:96
 msgid "Messages Sent"
-msgstr "Les messages ont envoyé"
+msgstr "Messages envoyés"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:104
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/camp-processing-state.model.js:122
@@ -6638,7 +6638,7 @@ msgstr "Économiser le lien URLs"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:110
 msgid "Campaign launch completed"
-msgstr "Lancement de campagne accompli"
+msgstr "Le lancement de campagne a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:165
 msgid "The previous refresh is still running."
@@ -6667,7 +6667,7 @@ msgstr "Adresse interdite (globale)"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:118
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:226
 msgid "Total Messages Queued"
-msgstr "Messages totaux alignés"
+msgstr "Les messages totaux se sont alignés"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:144
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:250
@@ -7153,7 +7153,7 @@ msgstr "Utilisateur fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "L'associé a fourni seulement"
+msgstr "Associé fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
@@ -7246,7 +7246,7 @@ msgstr "Choisissez un profil de réponse"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/edp-data-manager/edp-data-manager.component.js:135
 msgid "Settings saved successfully"
-msgstr "Arrangements sauvés avec succès"
+msgstr "Les arrangements ont économisé avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/facebook-audiences/facebook-audiences.component.js:36
 msgid "Ad Accounts"
@@ -7363,7 +7363,7 @@ msgstr "Remplacé 1 exemple"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:67
 msgid "Nothing replaced"
-msgstr "Rien remplacé"
+msgstr "Rien n'a remplacé"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:73
 msgid "Replaced "
@@ -7388,7 +7388,7 @@ msgstr "Ce filetype n'est pas soutenu"
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.controller.js:90
 #: ../../../web/Web.Ux/ux/js/pages/mms-counter.js:79
 msgid "Max Size Exceeded!"
-msgstr "Taille maximum excédée !"
+msgstr "La taille maximum a excédé !"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.model.js:165
 msgid "New Hosted Item"
@@ -7402,7 +7402,7 @@ msgstr "Que le type de dossier n'est pas soutenu."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo."
+msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7643,7 +7643,7 @@ msgstr "La preuve envoient accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Auditez et Preuve accomplie"
+msgstr "Auditez et La preuve a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -9413,7 +9413,7 @@ msgstr "Texte de lien"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 caractères laissés"
+msgstr "%1 caractères sont partis"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9586,7 +9586,7 @@ msgstr "Économiser joignez les détails"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Aucun filtre appliqué"
+msgstr "Aucun filtre ne s'est appliqué"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9605,7 +9605,7 @@ msgstr "Avec succès fusionné"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "La fusion manuelle échoue.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
+msgstr "La fusion manuelle a échoué.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10024,7 +10024,7 @@ msgstr "Erreur tout en changeant le calibre."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Nom d'application requis"
+msgstr "Le nom d'application a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10641,11 +10641,11 @@ msgstr "Texte assorti"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Value Captured: %1"
-msgstr "Valeur capturée :1."
+msgstr "La valeur a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Clef capturée :1."
+msgstr "La clef a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
