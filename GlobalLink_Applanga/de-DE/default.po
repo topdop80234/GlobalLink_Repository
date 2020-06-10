@@ -2299,7 +2299,7 @@ msgstr "Datum ausgelöst"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "Fall löste aus"
+msgstr "Fall ausgelöst worden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -3029,7 +3029,7 @@ msgstr "Gesamtanzeigen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:8
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2964
 msgid "Date Completed"
-msgstr "Datum führte durch"
+msgstr "Datum durchgeführt"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:12
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2968
@@ -3534,7 +3534,7 @@ msgstr "Veröffentlicht"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Letztes veröffentlichte:"
+msgstr "Letztes veröffentlicht:"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet löschte"
+msgstr "Anerkanntes email Gebiet gelöscht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4256,7 +4256,7 @@ msgstr "Benutzer entaktiviert"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "Benutzer reaktiviert"
+msgstr "Benutzer reaktivierte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -4341,7 +4341,7 @@ msgstr "<brdiv>< class='dialog-content'>"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Ajax Anruf unterbrach"
+msgstr "Ajax Anruf unterbrochen"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -5780,7 +5780,7 @@ msgstr "Es gab die Probleme, die Einzelteile verschieben, versuchen bitte noch e
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt"
+msgstr[0] "Einzelteil %1 (aus %2 heraus) wählte vor"
 msgstr[1] "%1 Einzelteile (aus %2 heraus) vorgewählt"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
@@ -5957,7 +5957,7 @@ msgstr "Dieses ist nicht ein gültiges Einzelteil"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Kein Einzelteil gefunden."
+msgstr "Kein Einzelteil fand."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6367,7 +6367,7 @@ msgstr "Design erfolgreich gespeichert"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
 msgid "Permission Denied"
-msgstr "Erlaubnis verweigerte"
+msgstr "Erlaubnis verweigert"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:261
 msgid "Server Error"
@@ -6504,7 +6504,7 @@ msgstr "Publikum Filter, der errichtet wird"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Publikum Filter errichtete"
+msgstr "Publikum Filter errichtet"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -7635,7 +7635,7 @@ msgstr "Entwurf"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:251
 msgid "Audit run completed"
-msgstr "Bilanzdurchlauf führte durch"
+msgstr "Bilanzdurchlauf durchgeführt"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:257
 msgid "Proof send completed"
@@ -9413,7 +9413,7 @@ msgstr "Verbindung Text"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 Buchstaben verließen"
+msgstr "%1 Buchstaben gelassen"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9595,7 +9595,7 @@ msgstr "Datenbanksuchroutine-Warnung"
 #: ../../../web/Web.Ux/ux/js/pages/main.js:157
 #: ../../../web/Web.Ux/ux/js/pages/main.js:173
 msgid "Access Denied"
-msgstr "Zugang verweigert"
+msgstr "Zugang verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:40
 msgid "Successfully Merged"
@@ -9605,7 +9605,7 @@ msgstr "Erfolgreich vermischt"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "Manuelles Mischen fiel aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
+msgstr "Manuelles Mischen fällt aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10645,7 +10645,7 @@ msgstr "Wert gefangengenommen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Schlüssel nahm gefangen:1."
+msgstr "Schlüssel gefangengenommen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
