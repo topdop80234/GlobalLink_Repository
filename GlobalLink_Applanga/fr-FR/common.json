@@ -1,15 +1,15 @@
 {
     "toast": {
-        "email-success": "L'email address a mis \u00E0 jour",
-        "password-success": "Mot de passe mis \u00E0 jour",
+        "email-success": "Email address mis \u00E0 jour",
+        "password-success": "Le mot de passe a mis \u00E0 jour",
         "phone-success": "Nombre de t\u00E9l\u00E9phone portable mis \u00E0 jour",
-        "account-number-copied": "Le num\u00E9ro de compte a copi\u00E9",
-        "routing-number-copied": "Le nombre de cheminement a copi\u00E9",
+        "account-number-copied": "Num\u00E9ro de compte copi\u00E9",
+        "routing-number-copied": "Nombre de cheminement copi\u00E9",
         "set-pin-success": "Placez la BORNE num\u00E9ro",
         "change-pin-success": "BORNE num\u00E9ro chang\u00E9e",
         "new-transactions": "Nouvelles transactions disponibles",
-        "address-success": "L'adresse a mis \u00E0 jour",
-        "privacy-policy-updated": "La politique d'intimit\u00E9 a mis \u00E0 jour"
+        "address-success": "Adresse mise \u00E0 jour",
+        "privacy-policy-updated": "Politique d'intimit\u00E9 mise \u00E0 jour"
     },
     "email": "Email:",
     "email-label": "Email address",
