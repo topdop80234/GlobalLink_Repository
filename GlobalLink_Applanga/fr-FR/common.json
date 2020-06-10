@@ -8,8 +8,8 @@
         "set-pin-success": "Placez la BORNE num\u00E9ro",
         "change-pin-success": "BORNE num\u00E9ro chang\u00E9e",
         "new-transactions": "Nouvelles transactions disponibles",
-        "address-success": "L'adresse a mis \u00E0 jour",
-        "privacy-policy-updated": "Politique d'intimit\u00E9 mise \u00E0 jour"
+        "address-success": "Adresse mise \u00E0 jour",
+        "privacy-policy-updated": "La politique d'intimit\u00E9 a mis \u00E0 jour"
     },
     "email": "Email:",
     "email-label": "Email address",

@@ -1518,7 +1518,7 @@ msgstr "Envoyez au chemin de retour"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:184
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5114
 msgid "Proof Sent"
-msgstr "Preuve envoyée"
+msgstr "La preuve a envoyé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:187
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5117
@@ -1543,7 +1543,7 @@ msgstr "Date modifiée"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:215
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5145
 msgid "No proofing group found."
-msgstr "Aucun groupe d'imperméabilisation trouvé."
+msgstr "Aucun groupe d'imperméabilisation n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:235
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5165
@@ -1647,7 +1647,7 @@ msgstr "Bout 24 heures"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-sent-metrics.template.html:6
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1897
 msgid "Total sent"
-msgstr "Le total a envoyé"
+msgstr "Total envoyé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/end-campaign.template.html:5
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1624
@@ -2292,7 +2292,7 @@ msgstr "Jetable"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:35
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2293
 msgid "Date Triggered"
-msgstr "Date déclenchée"
+msgstr "La date a déclenché"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:24
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-details.component.js:51
@@ -3029,7 +3029,7 @@ msgstr "Messages totaux"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:8
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2964
 msgid "Date Completed"
-msgstr "La date a accompli"
+msgstr "Date finie"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:12
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2968
@@ -3534,7 +3534,7 @@ msgstr "Édité"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Bout édité :"
+msgstr "Le bout a édité :"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4256,7 +4256,7 @@ msgstr "L'utilisateur a mis hors tension"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "Utilisateur réactivé"
+msgstr "L'utilisateur a réactivé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -4505,7 +4505,7 @@ msgstr "AttentionC'est JSON inadmissible."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "ErreurAucun schéma trouvé."
+msgstr "ErreurAucun schéma n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5781,7 +5781,7 @@ msgstr "Il y avait des problèmes déplaçant des articles, essayent svp encore.
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
 msgstr[0] "article %1 (sur %2) choisi"
-msgstr[1] "%1 articles (sur %2) choisis"
+msgstr[1] "%1 articles (sur %2) ont choisi"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
 msgid "%1 item"
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Charge d'arbre interrompue"
+msgstr "La charge d'arbre s'est interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -5957,7 +5957,7 @@ msgstr "Ce n'est pas un article valide"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Aucun article trouvé."
+msgstr "Aucun article n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6492,7 +6492,7 @@ msgstr "Préparation de la campagne"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:69
 msgid "Campaign Prepared"
-msgstr "Campagne préparée"
+msgstr "La campagne a préparé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:76
 msgid "Next Step: Audience Filter"
@@ -6504,7 +6504,7 @@ msgstr "Filtre d'assistances étant construit"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Filtre d'assistances construit"
+msgstr "Le filtre d'assistances a construit"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -6638,7 +6638,7 @@ msgstr "Économiser le lien URLs"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:110
 msgid "Campaign launch completed"
-msgstr "Lancement de campagne accompli"
+msgstr "Le lancement de campagne a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:165
 msgid "The previous refresh is still running."
@@ -6705,7 +6705,7 @@ msgstr "Vous avez les changements unsaved.aimez-vous sauver avant que la collect
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/pickup-changes.component.js:92
 msgid "Pickup Changes completed."
-msgstr "Changements de collecte accomplis."
+msgstr "Les changements de collecte ont accompli."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:61
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:72
@@ -7153,11 +7153,11 @@ msgstr "Utilisateur fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "Associé fourni seulement"
+msgstr "L'associé a fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
-msgstr "Utilisateur et associé fourni"
+msgstr "L'utilisateur et l'associé ont fourni"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook.component.js:88
 msgid ""
@@ -7246,7 +7246,7 @@ msgstr "Choisissez un profil de réponse"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/edp-data-manager/edp-data-manager.component.js:135
 msgid "Settings saved successfully"
-msgstr "Arrangements sauvés avec succès"
+msgstr "Les arrangements ont économisé avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/facebook-audiences/facebook-audiences.component.js:36
 msgid "Ad Accounts"
@@ -7341,7 +7341,7 @@ msgstr "Campagnes actives"
 #: ../../../web/Web.Ux/ux/js/ng/app/stale-obj-alert/stale-dialog.service.js:83
 #: ../../../web/Web.Ux/ux/js/ng/component/stale-obj-watcher/stale-obj-notifier.service.js:125
 msgid "Changes Detected"
-msgstr "Changements détectés"
+msgstr "Les changements ont détecté"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/dirty-obj-reminder/dirty-obj-reminder.directive.js:33
 msgid ""
@@ -7363,7 +7363,7 @@ msgstr "Remplacé 1 exemple"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:67
 msgid "Nothing replaced"
-msgstr "Rien remplacé"
+msgstr "Rien n'a remplacé"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:73
 msgid "Replaced "
@@ -7402,7 +7402,7 @@ msgstr "Que le type de dossier n'est pas soutenu."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo."
+msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7643,7 +7643,7 @@ msgstr "La preuve envoient accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Auditez et Preuve accomplie"
+msgstr "Auditez et La preuve a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -9586,7 +9586,7 @@ msgstr "Économiser joignez les détails"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Aucun filtre ne s'est appliqué"
+msgstr "Aucun filtre appliqué"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9595,7 +9595,7 @@ msgstr "Avertissement de navigateur"
 #: ../../../web/Web.Ux/ux/js/pages/main.js:157
 #: ../../../web/Web.Ux/ux/js/pages/main.js:173
 msgid "Access Denied"
-msgstr "Access nié"
+msgstr "L'Access a nié"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:40
 msgid "Successfully Merged"
@@ -9605,7 +9605,7 @@ msgstr "Avec succès fusionné"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "La fusion manuelle a échoué.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
+msgstr "La fusion manuelle échoue.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -9652,7 +9652,7 @@ msgstr "Note:Le compte de caractère final et le nombre de messages peuvent chan
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video"
-msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo"
+msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo"
 
 #: ../../../web/Web.Ux/ux/js/pages/new.js:196
 msgid "Upload more files or create and organize your items"
@@ -10024,7 +10024,7 @@ msgstr "Erreur tout en changeant le calibre."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Nom d'application requis"
+msgstr "Le nom d'application a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10036,7 +10036,7 @@ msgstr "Le dossier valide de certificat a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
-msgstr "Clef de Google api requise"
+msgstr "La clef de Google api a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:1064
 msgid "Rename The Item"
@@ -10636,7 +10636,7 @@ msgstr[1] "%1 @replies"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Text Matched"
-msgstr "Texte assorti"
+msgstr "Le texte s'est assorti"
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
