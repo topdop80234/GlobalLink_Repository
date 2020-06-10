@@ -1,7 +1,7 @@
 {
     "toast": {
         "email-success": "Email address aktualisiert",
-        "password-success": "Kennwort aktualisiert",
+        "password-success": "Kennwort aktualisierte",
         "phone-success": "Zelle Telefonnummer aktualisierte",
         "account-number-copied": "Kontonummer kopierte",
         "routing-number-copied": "Wegewahlzahl kopierte",
@@ -9,7 +9,7 @@
         "change-pin-success": "Ge\u00E4nderter STIFT Zahl",
         "new-transactions": "Neue Verhandlungen vorhanden",
         "address-success": "Adresse aktualisierte",
-        "privacy-policy-updated": "Privacy policy aktualisiert"
+        "privacy-policy-updated": "Privacy policy aktualisierte"
     },
     "email": "Email",
     "email-label": "Email address",
