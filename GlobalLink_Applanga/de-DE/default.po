@@ -1518,7 +1518,7 @@ msgstr "Senden Sie zum Rückholweg"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:184
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5114
 msgid "Proof Sent"
-msgstr "Beweis gesendet"
+msgstr "Beweis gesendet worden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:187
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5117
@@ -1543,7 +1543,7 @@ msgstr "Geändertes Datum"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:215
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5145
 msgid "No proofing group found."
-msgstr "Keine Prüfengruppe gefunden."
+msgstr "Keine Prüfengruppe fand."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:235
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5165
@@ -1964,7 +1964,7 @@ msgstr "# Aufzeichnungen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats-versions.template.html:17
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1926
 msgid "No versions found."
-msgstr "Keine Versionen gefunden."
+msgstr "Keine Versionen fanden."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats.template.html:11
 msgid "Pre Token Exchange"
@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet löschte"
+msgstr "Anerkanntes email Gebiet gelöscht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4252,7 +4252,7 @@ msgstr "Berichten Sie über Störung"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:777
 msgid "User Deactivated"
-msgstr "Benutzer entaktivierte"
+msgstr "Benutzer entaktiviert"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
@@ -4341,7 +4341,7 @@ msgstr "<brdiv>< class='dialog-content'>"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Ajax Anruf unterbrochen"
+msgstr "Ajax Anruf unterbrach"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -4803,7 +4803,7 @@ msgstr "Z.Z. ansehend"
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:179
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:186
 msgid "Subscribed"
-msgstr "Unterzeichnet"
+msgstr "Unterzeichnet worden"
 
 #: ../../../web/Web.Ux/ux/js/common/edit-obj/objSubscription.js:193
 msgid "Not Subscribed"
@@ -5781,7 +5781,7 @@ msgstr "Es gab die Probleme, die Einzelteile verschieben, versuchen bitte noch e
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
 msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt"
-msgstr[1] "%1 Einzelteile (aus %2 heraus) vorgewählt"
+msgstr[1] "%1 Einzelteile (aus %2 heraus) wählten vor"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
 msgid "%1 item"
@@ -5798,7 +5798,7 @@ msgstr "Suchplattform"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Baumlast unterbrach"
+msgstr "Baumlast unterbrochen"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6458,7 +6458,7 @@ msgstr "Schreibtisch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:284
 msgid "%1 Inbox Preview tests out of %2 used in %3"
-msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendet in %3"
+msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendeten in %3"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:335
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:390
@@ -6638,7 +6638,7 @@ msgstr "Außer Verbindung URLs"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:110
 msgid "Campaign launch completed"
-msgstr "Kampagne Produkteinführung durchgeführt"
+msgstr "Kampagne Produkteinführung führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:165
 msgid "The previous refresh is still running."
@@ -6667,7 +6667,7 @@ msgstr "Verbotene Adresse (global)"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:118
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:226
 msgid "Total Messages Queued"
-msgstr "Gesamtanzeigen standen an"
+msgstr "Gesamtanzeigen angestanden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:144
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:250
@@ -6705,7 +6705,7 @@ msgstr "Sie haben unsaved änderungen.Wurden Sie mögen speichern, bevor laufend
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/pickup-changes.component.js:92
 msgid "Pickup Changes completed."
-msgstr "Aufnahme änderungen durchgeführt."
+msgstr "Aufnahme änderungen führten durch."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:61
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:72
@@ -7153,7 +7153,7 @@ msgstr "Benutzer nur bereitgestellt"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "Partner nur bereitgestellt"
+msgstr "Partner stellte nur zur Verfügung"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
@@ -7402,7 +7402,7 @@ msgstr "Daß Akte Art nicht gestützt wird."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Maximale Anzeige Größe von %1 KBs überstieg.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
+msgstr "Maximale Anzeige Größe von %1 KBs überstiegen.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -9586,7 +9586,7 @@ msgstr "Außer verbinden Sie Details"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Kein Filter traf zu"
+msgstr "Kein Filter angewendet"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -10024,11 +10024,11 @@ msgstr "Störung beim Ändern der Schablone."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Anwendung Name erfordert"
+msgstr "Anwendung Name erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
-msgstr "Bescheinigung Kennwort erfordert"
+msgstr "Bescheinigung Kennwort erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:942
 msgid "Valid Certificate File Required"
@@ -10641,7 +10641,7 @@ msgstr "Text zusammengebracht"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Value Captured: %1"
-msgstr "Wert gefangengenommen:1."
+msgstr "Wert nahm gefangen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
