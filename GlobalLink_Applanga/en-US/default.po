@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:217
-msgctxt "Decomail editor plugin"
+msgctxt "Decomail editor plugin PJ MAKING CHANGE"
 msgid "Insert Line Break"
 msgstr ""
 
