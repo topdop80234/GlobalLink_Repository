@@ -1518,7 +1518,7 @@ msgstr "Senden Sie zum Rückholweg"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:184
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5114
 msgid "Proof Sent"
-msgstr "Beweis gesendet"
+msgstr "Beweis sendete"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:187
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5117
@@ -1819,7 +1819,7 @@ msgstr "Gegenwärtiges URL:"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-edit-link-url.template.html:29
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1758
 msgid "No links found"
-msgstr "Keine Verbindungen fanden"
+msgstr "Keine Verbindungen gefunden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-message-stats.template.html:18
 msgid "Add:"
@@ -2299,7 +2299,7 @@ msgstr "Datum ausgelöst"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "Fall ausgelöst"
+msgstr "Fall löste aus"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -3019,7 +3019,7 @@ msgstr "Dieses fangen übersteigt die maximale Ganzzahl Begrenzung auf"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:1
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2957
 msgid "No Audits Completed"
-msgstr "Keine Bilanzen durchgeführt"
+msgstr "Keine Bilanzen führten durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2960
@@ -3534,7 +3534,7 @@ msgstr "Veröffentlicht"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Letztes veröffentlichte:"
+msgstr "Letztes veröffentlicht:"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4172,7 +4172,7 @@ msgstr "WEG VON"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:757
 msgid "Approved Email Domain Created"
-msgstr "Anerkanntes email Gebiet verursachte"
+msgstr "Anerkanntes email Gebiet verursacht"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
@@ -4252,7 +4252,7 @@ msgstr "Berichten Sie über Störung"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:777
 msgid "User Deactivated"
-msgstr "Benutzer entaktiviert"
+msgstr "Benutzer entaktivierte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
@@ -4341,7 +4341,7 @@ msgstr "<brdiv>< class='dialog-content'>"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Ajax Anruf unterbrochen"
+msgstr "Ajax Anruf unterbrach"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -4505,7 +4505,7 @@ msgstr "Warnung!Dieses ist unzulässiges JSON."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "Störung!Kein Schema gefunden."
+msgstr "Störung!Kein Schema fand."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5295,7 +5295,7 @@ msgstr "(Anzeigen gelöscht)"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4067
 msgid "Any Messages Deleted"
-msgstr "Irgendwelche Anzeigen gelöscht"
+msgstr "Alle mögliche Anzeigen löschten"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4072
 msgid "(Facebook Likes)"
@@ -5404,7 +5404,7 @@ msgstr "(Zugang) %1"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4311
 msgid "no results found"
-msgstr "keine Resultate fanden"
+msgstr "keine Resultate gefunden"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4330
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4331
@@ -5798,7 +5798,7 @@ msgstr "Suchplattform"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Baumlast unterbrach"
+msgstr "Baumlast unterbrochen"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6362,12 +6362,12 @@ msgstr "Der zufriedene Entwerfer ist vorübergehend nicht erreichbar.Treten Sie 
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:257
 msgid "Design saved successfully"
-msgstr "Design erfolgreich gespeichert"
+msgstr "Design speicherte erfolgreich"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
 msgid "Permission Denied"
-msgstr "Erlaubnis verweigert"
+msgstr "Erlaubnis verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:261
 msgid "Server Error"
@@ -6458,7 +6458,7 @@ msgstr "Schreibtisch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:284
 msgid "%1 Inbox Preview tests out of %2 used in %3"
-msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendeten in %3"
+msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendet in %3"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:335
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:390
@@ -7153,7 +7153,7 @@ msgstr "Benutzer stellte nur zur Verfügung"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "Partner stellte nur zur Verfügung"
+msgstr "Partner nur bereitgestellt"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
@@ -7388,7 +7388,7 @@ msgstr "Dieses filetype wird nicht gestützt"
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.controller.js:90
 #: ../../../web/Web.Ux/ux/js/pages/mms-counter.js:79
 msgid "Max Size Exceeded!"
-msgstr "Maximale Größe überstieg!"
+msgstr "Maximale Größe überstiegen!"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.model.js:165
 msgid "New Hosted Item"
@@ -7402,7 +7402,7 @@ msgstr "Daß Akte Art nicht gestützt wird."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Maximale Anzeige Größe von %1 KBs überstiegen.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
+msgstr "Maximale Anzeige Größe von %1 KBs überstieg.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7635,7 +7635,7 @@ msgstr "Entwurf"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:251
 msgid "Audit run completed"
-msgstr "Bilanzdurchlauf durchgeführt"
+msgstr "Bilanzdurchlauf führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:257
 msgid "Proof send completed"
@@ -9586,7 +9586,7 @@ msgstr "Außer verbinden Sie Details"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Kein Filter angewendet"
+msgstr "Kein Filter traf zu"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9595,7 +9595,7 @@ msgstr "Datenbanksuchroutine-Warnung"
 #: ../../../web/Web.Ux/ux/js/pages/main.js:157
 #: ../../../web/Web.Ux/ux/js/pages/main.js:173
 msgid "Access Denied"
-msgstr "Zugang verweigert"
+msgstr "Zugang verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:40
 msgid "Successfully Merged"
@@ -10024,7 +10024,7 @@ msgstr "Störung beim Ändern der Schablone."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Anwendung Name erfordert"
+msgstr "Anwendung Name erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10032,7 +10032,7 @@ msgstr "Bescheinigung Kennwort erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:942
 msgid "Valid Certificate File Required"
-msgstr "Gültige Bescheinigung Akte erforderte"
+msgstr "Gültige Bescheinigung Akte erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
