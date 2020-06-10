@@ -4172,7 +4172,7 @@ msgstr "OUTRE DE"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:757
 msgid "Approved Email Domain Created"
-msgstr "Domaine approuvé d'email créé"
+msgstr "Le domaine approuvé d'email a créé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
@@ -4256,7 +4256,7 @@ msgstr "Utilisateur mis hors tension"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "L'utilisateur a réactivé"
+msgstr "Utilisateur réactivé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -4341,7 +4341,7 @@ msgstr "<class='dialog-content'>>< de brdiv"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Appel d'Ajax interrompu"
+msgstr "L'appel d'Ajax s'est interrompu"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -4505,7 +4505,7 @@ msgstr "AttentionC'est JSON inadmissible."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "ErreurAucun schéma n'a trouvé."
+msgstr "ErreurAucun schéma trouvé."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5404,7 +5404,7 @@ msgstr "(Access) %1"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4311
 msgid "no results found"
-msgstr "aucuns résultats trouvés"
+msgstr "résultat n'a pas trouvé"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4330
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4331
@@ -5957,7 +5957,7 @@ msgstr "Ce n'est pas un article valide"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Aucun article trouvé."
+msgstr "Aucun article n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6185,7 +6185,7 @@ msgstr "des cellules de valeur de champ seront ajoutées.Souhaitez-vous procéde
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:358
 msgid " field values added."
-msgstr "les valeurs de champ se sont ajoutées."
+msgstr "valeurs de champ supplémentaires."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:393
 msgid " has been successfully deleted."
@@ -6362,7 +6362,7 @@ msgstr "Le concepteur content est temporairement indisponible.Veuillez contacter
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:257
 msgid "Design saved successfully"
-msgstr "Conception sauvée avec succès"
+msgstr "La conception a économisé avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
@@ -6504,7 +6504,7 @@ msgstr "Filtre d'assistances étant construit"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Filtre d'assistances construit"
+msgstr "Le filtre d'assistances a construit"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -6705,7 +6705,7 @@ msgstr "Vous avez les changements unsaved.aimez-vous sauver avant que la collect
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/pickup-changes.component.js:92
 msgid "Pickup Changes completed."
-msgstr "Changements de collecte accomplis."
+msgstr "Les changements de collecte ont accompli."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:61
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:72
@@ -7388,7 +7388,7 @@ msgstr "Ce filetype n'est pas soutenu"
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.controller.js:90
 #: ../../../web/Web.Ux/ux/js/pages/mms-counter.js:79
 msgid "Max Size Exceeded!"
-msgstr "Taille maximum excédée !"
+msgstr "La taille maximum a excédé !"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.model.js:165
 msgid "New Hosted Item"
@@ -7402,7 +7402,7 @@ msgstr "Que le type de dossier n'est pas soutenu."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo."
+msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7643,7 +7643,7 @@ msgstr "La preuve envoient accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Auditez et Preuve accomplie"
+msgstr "Auditez et La preuve a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -9413,7 +9413,7 @@ msgstr "Texte de lien"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 caractères sont partis"
+msgstr "%1 caractères laissés"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9652,7 +9652,7 @@ msgstr "Note:Le compte de caractère final et le nombre de messages peuvent chan
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video"
-msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo"
+msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo"
 
 #: ../../../web/Web.Ux/ux/js/pages/new.js:196
 msgid "Upload more files or create and organize your items"
@@ -10024,7 +10024,7 @@ msgstr "Erreur tout en changeant le calibre."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Le nom d'application a exigé"
+msgstr "Nom d'application requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10036,7 +10036,7 @@ msgstr "Dossier valide de certificat requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
-msgstr "Clef de Google api requise"
+msgstr "La clef de Google api a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:1064
 msgid "Rename The Item"
@@ -10645,7 +10645,7 @@ msgstr "La valeur a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Clef capturée :1."
+msgstr "La clef a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
