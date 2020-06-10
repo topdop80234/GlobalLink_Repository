@@ -1543,7 +1543,7 @@ msgstr "Date modifiée"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:215
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5145
 msgid "No proofing group found."
-msgstr "Aucun groupe d'imperméabilisation n'a trouvé."
+msgstr "Aucun groupe d'imperméabilisation trouvé."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:235
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5165
@@ -1647,7 +1647,7 @@ msgstr "Bout 24 heures"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-sent-metrics.template.html:6
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1897
 msgid "Total sent"
-msgstr "Le total a envoyé"
+msgstr "Total envoyé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/end-campaign.template.html:5
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1624
@@ -1964,7 +1964,7 @@ msgstr "Disques de #"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats-versions.template.html:17
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1926
 msgid "No versions found."
-msgstr "Version n'a pas trouvé."
+msgstr "Aucunes versions trouvées."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats.template.html:11
 msgid "Pre Token Exchange"
@@ -2299,7 +2299,7 @@ msgstr "Date déclenchée"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "L'événement a déclenché"
+msgstr "Événement déclenché"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -4256,7 +4256,7 @@ msgstr "Utilisateur mis hors tension"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "Utilisateur réactivé"
+msgstr "L'utilisateur a réactivé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -5295,7 +5295,7 @@ msgstr "(Messages supprimés)"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4067
 msgid "Any Messages Deleted"
-msgstr "Tous les messages ont supprimé"
+msgstr "Tous messages supprimés"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4072
 msgid "(Facebook Likes)"
@@ -5780,7 +5780,7 @@ msgstr "Il y avait des problèmes déplaçant des articles, essayent svp encore.
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "l'article %1 (sur %2) a choisi"
+msgstr[0] "article %1 (sur %2) choisi"
 msgstr[1] "%1 articles (sur %2) choisis"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Charge d'arbre interrompue"
+msgstr "La charge d'arbre s'est interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6492,7 +6492,7 @@ msgstr "Préparation de la campagne"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:69
 msgid "Campaign Prepared"
-msgstr "La campagne a préparé"
+msgstr "Campagne préparée"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:76
 msgid "Next Step: Audience Filter"
@@ -7402,7 +7402,7 @@ msgstr "Que le type de dossier n'est pas soutenu."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo."
+msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7509,7 +7509,7 @@ msgstr "(mm/dd/yyyy h : millimètre de TTT)"
 #. Comment: Data column date time format
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization.model.js:546
 msgid "Date & Time - Long"
-msgstr "Date et Time - Long"
+msgstr "Date et Temps - désirez ardemment"
 
 #. Comment: Data column date time format
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization.model.js:546
@@ -9605,7 +9605,7 @@ msgstr "Avec succès fusionné"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "La fusion manuelle échoue.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
+msgstr "La fusion manuelle a échoué.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
