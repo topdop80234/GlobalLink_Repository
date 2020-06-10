@@ -519,7 +519,7 @@ msgstr "Zelle Zählimpuls"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-content.template.html:14
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1128
 msgid "Message Queued"
-msgstr "Anzeige angestanden"
+msgstr "Anzeige stand an"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-cross-tabs.template.html:15
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/cell-test-variations.template.html:26
@@ -1964,7 +1964,7 @@ msgstr "# Aufzeichnungen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats-versions.template.html:17
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1926
 msgid "No versions found."
-msgstr "Keine Versionen gefunden."
+msgstr "Keine Versionen fanden."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats.template.html:11
 msgid "Pre Token Exchange"
@@ -2099,7 +2099,7 @@ msgstr "Alle Verbindungen"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/link-tracking/link-tracking.template.html:32
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2132
 msgid "Excluded"
-msgstr "Ausgeschlossen"
+msgstr "Ausgeschlossen worden"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/link-tracking/link-tracking.template.html:39
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2139
@@ -2299,7 +2299,7 @@ msgstr "Datum ausgelöst"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/launch-campaign.component.js:36
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2299
 msgid "Event Triggered"
-msgstr "Fall ausgelöst"
+msgstr "Fall löste aus"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/change-campaign-type.template.html:30
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:304
@@ -3534,7 +3534,7 @@ msgstr "Veröffentlicht"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Letztes veröffentlichte:"
+msgstr "Letztes veröffentlicht:"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4176,7 +4176,7 @@ msgstr "Anerkanntes email Gebiet verursachte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
-msgstr "Anerkanntes email Gebiet gelöscht"
+msgstr "Anerkanntes email Gebiet löschte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:759
 msgid "Import Completed Parsing"
@@ -4252,7 +4252,7 @@ msgstr "Berichten Sie über Störung"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:777
 msgid "User Deactivated"
-msgstr "Benutzer entaktiviert"
+msgstr "Benutzer entaktivierte"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
@@ -4341,7 +4341,7 @@ msgstr "<brdiv>< class='dialog-content'>"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:455
 msgid "Ajax Call Interrupted"
-msgstr "Ajax Anruf unterbrach"
+msgstr "Ajax Anruf unterbrochen"
 
 #: ../../../web/Web.Ux/ux/js/common/base/utility.js:470
 msgid ""
@@ -4505,7 +4505,7 @@ msgstr "Warnung!Dieses ist unzulässiges JSON."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "Störung!Kein Schema gefunden."
+msgstr "Störung!Kein Schema fand."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5295,7 +5295,7 @@ msgstr "(Anzeigen gelöscht)"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4067
 msgid "Any Messages Deleted"
-msgstr "Alle mögliche Anzeigen löschten"
+msgstr "Irgendwelche Anzeigen gelöscht"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4072
 msgid "(Facebook Likes)"
@@ -5404,7 +5404,7 @@ msgstr "(Zugang) %1"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4311
 msgid "no results found"
-msgstr "keine Resultate gefunden"
+msgstr "keine Resultate fanden"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4330
 #: ../../../web/Web.Ux/ux/js/common/utils/dialog.js:4331
@@ -5781,7 +5781,7 @@ msgstr "Es gab die Probleme, die Einzelteile verschieben, versuchen bitte noch e
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
 msgstr[0] "Einzelteil %1 (aus %2 heraus) vorgewählt"
-msgstr[1] "%1 Einzelteile (aus %2 heraus) vorgewählt"
+msgstr[1] "%1 Einzelteile (aus %2 heraus) wählten vor"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
 msgid "%1 item"
@@ -5798,7 +5798,7 @@ msgstr "Suchplattform"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "Baumlast unterbrochen"
+msgstr "Baumlast unterbrach"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6458,7 +6458,7 @@ msgstr "Schreibtisch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:284
 msgid "%1 Inbox Preview tests out of %2 used in %3"
-msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendeten in %3"
+msgstr "%1 Inbox Vorbetrachtungtests aus %2 heraus verwendet in %3"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:335
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.controller.js:390
@@ -6504,7 +6504,7 @@ msgstr "Publikum Filter, der errichtet wird"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:78
 msgid "Audience Filter Built"
-msgstr "Publikum Filter errichtete"
+msgstr "Publikum Filter errichtet"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:85
 msgid "Next Step: Creating Messages"
@@ -6638,7 +6638,7 @@ msgstr "Außer Verbindung URLs"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:110
 msgid "Campaign launch completed"
-msgstr "Kampagne Produkteinführung durchgeführt"
+msgstr "Kampagne Produkteinführung führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:165
 msgid "The previous refresh is still running."
@@ -7149,11 +7149,11 @@ msgstr "Kundenspezifische Publikum"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:24
 msgid "User Provided Only"
-msgstr "Benutzer nur bereitgestellt"
+msgstr "Benutzer stellte nur zur Verfügung"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "Partner nur bereitgestellt"
+msgstr "Partner stellte nur zur Verfügung"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
@@ -7341,7 +7341,7 @@ msgstr "Aktive Kampagnen"
 #: ../../../web/Web.Ux/ux/js/ng/app/stale-obj-alert/stale-dialog.service.js:83
 #: ../../../web/Web.Ux/ux/js/ng/component/stale-obj-watcher/stale-obj-notifier.service.js:125
 msgid "Changes Detected"
-msgstr "Änderungen ermittelt"
+msgstr "Änderungen ermittelten"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/dirty-obj-reminder/dirty-obj-reminder.directive.js:33
 msgid ""
@@ -7363,7 +7363,7 @@ msgstr "Ersetzt 1 Fall"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:67
 msgid "Nothing replaced"
-msgstr "Nichts ersetzt"
+msgstr "Nichts ersetzte"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:73
 msgid "Replaced "
@@ -7402,7 +7402,7 @@ msgstr "Daß Akte Art nicht gestützt wird."
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video."
-msgstr "Maximale Anzeige Größe von %1 KBs überstiegen.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
+msgstr "Maximale Anzeige Größe von %1 KBs überstieg.Verringern Sie bitte Ihren Text oder die Größe Ihres Bildes/Bildschirmes."
 
 #: ../../../web/Web.Ux/ux/js/ng/component/personalization-panel/personalization-panel.controller.js:29
 msgid ""
@@ -7635,7 +7635,7 @@ msgstr "Entwurf"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:251
 msgid "Audit run completed"
-msgstr "Bilanzdurchlauf durchgeführt"
+msgstr "Bilanzdurchlauf führte durch"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:257
 msgid "Proof send completed"
@@ -9413,7 +9413,7 @@ msgstr "Verbindung Text"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 Buchstaben gelassen"
+msgstr "%1 Buchstaben verließen"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9586,7 +9586,7 @@ msgstr "Außer verbinden Sie Details"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Kein Filter angewendet"
+msgstr "Kein Filter traf zu"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9595,7 +9595,7 @@ msgstr "Datenbanksuchroutine-Warnung"
 #: ../../../web/Web.Ux/ux/js/pages/main.js:157
 #: ../../../web/Web.Ux/ux/js/pages/main.js:173
 msgid "Access Denied"
-msgstr "Zugang verweigert"
+msgstr "Zugang verweigerte"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:40
 msgid "Successfully Merged"
@@ -9605,7 +9605,7 @@ msgstr "Erfolgreich vermischt"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "Manuelles Mischen fällt aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
+msgstr "Manuelles Mischen fiel aus.Schließen Sie bitte das Fenster und den Versuch wieder.Wenn das Problem fortbesteht, bitte technische Unterstützung des Kontaktes"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10024,7 +10024,7 @@ msgstr "Störung beim Ändern der Schablone."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Anwendung Name erfordert"
+msgstr "Anwendung Name erforderte"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10036,7 +10036,7 @@ msgstr "Gültige Bescheinigung Akte erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
-msgstr "Google API Schlüssel erforderte"
+msgstr "Google API Schlüssel erfordert"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:1064
 msgid "Rename The Item"
@@ -10641,11 +10641,11 @@ msgstr "Text zusammengebracht"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Value Captured: %1"
-msgstr "Wert gefangengenommen:1."
+msgstr "Wert nahm gefangen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "Schlüssel nahm gefangen:1."
+msgstr "Schlüssel gefangengenommen:1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
