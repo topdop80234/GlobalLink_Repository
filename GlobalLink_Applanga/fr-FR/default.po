@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:217
-msgctxt "Decomail editor plugin"
+msgctxt "Decomail editor plugin PJ MAKING CHANGE"
 msgid "Insert Line Break"
 msgstr "Insérez la ligne coupure"
 
@@ -519,7 +519,7 @@ msgstr "Compte de cellules"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-content.template.html:14
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1128
 msgid "Message Queued"
-msgstr "Le message s'est aligné"
+msgstr "Message aligné"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-cross-tabs.template.html:15
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/cell-test-variations.template.html:26
@@ -1518,7 +1518,7 @@ msgstr "Envoyez au chemin de retour"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:184
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5114
 msgid "Proof Sent"
-msgstr "La preuve a envoyé"
+msgstr "Preuve envoyée"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:187
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5117
@@ -1543,7 +1543,7 @@ msgstr "Date modifiée"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:215
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5145
 msgid "No proofing group found."
-msgstr "Aucun groupe d'imperméabilisation trouvé."
+msgstr "Aucun groupe d'imperméabilisation n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/content-editor/preview/preview.html:235
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:5165
@@ -1819,7 +1819,7 @@ msgstr "URL courant :"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-edit-link-url.template.html:29
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1758
 msgid "No links found"
-msgstr "Aucuns liens trouvés"
+msgstr "Lien n'a pas trouvé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-message-stats.template.html:18
 msgid "Add:"
@@ -3029,7 +3029,7 @@ msgstr "Messages totaux"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:8
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2964
 msgid "Date Completed"
-msgstr "La date a accompli"
+msgstr "Date finie"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:12
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2968
@@ -4172,7 +4172,7 @@ msgstr "OUTRE DE"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:757
 msgid "Approved Email Domain Created"
-msgstr "Le domaine approuvé d'email a créé"
+msgstr "Domaine approuvé d'email créé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "La charge d'arbre s'est interrompue"
+msgstr "Charge d'arbre interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6185,7 +6185,7 @@ msgstr "des cellules de valeur de champ seront ajoutées.Souhaitez-vous procéde
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:358
 msgid " field values added."
-msgstr "les valeurs de champ se sont ajoutées."
+msgstr "valeurs de champ supplémentaires."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/settings/cell-settings-cell-list.component.js:393
 msgid " has been successfully deleted."
@@ -6362,7 +6362,7 @@ msgstr "Le concepteur content est temporairement indisponible.Veuillez contacter
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:257
 msgid "Design saved successfully"
-msgstr "La conception a économisé avec succès"
+msgstr "Conception sauvée avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
@@ -6492,7 +6492,7 @@ msgstr "Préparation de la campagne"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:69
 msgid "Campaign Prepared"
-msgstr "Campagne préparée"
+msgstr "La campagne a préparé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:76
 msgid "Next Step: Audience Filter"
@@ -6705,7 +6705,7 @@ msgstr "Vous avez les changements unsaved.aimez-vous sauver avant que la collect
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/pickup-changes.component.js:92
 msgid "Pickup Changes completed."
-msgstr "Les changements de collecte ont accompli."
+msgstr "Changements de collecte accomplis."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:61
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/options/camp-actions.directive.js:72
@@ -7149,7 +7149,7 @@ msgstr "Assistances faites sur commande"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:24
 msgid "User Provided Only"
-msgstr "Utilisateur fourni seulement"
+msgstr "L'utilisateur a fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
@@ -7157,7 +7157,7 @@ msgstr "Associé fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
-msgstr "L'utilisateur et l'associé ont fourni"
+msgstr "Utilisateur et associé fourni"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook.component.js:88
 msgid ""
@@ -7388,7 +7388,7 @@ msgstr "Ce filetype n'est pas soutenu"
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.controller.js:90
 #: ../../../web/Web.Ux/ux/js/pages/mms-counter.js:79
 msgid "Max Size Exceeded!"
-msgstr "La taille maximum a excédé !"
+msgstr "Taille maximum excédée !"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/mms-config/mms-config.model.js:165
 msgid "New Hosted Item"
@@ -9413,7 +9413,7 @@ msgstr "Texte de lien"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 caractères sont partis"
+msgstr "%1 caractères laissés"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9586,7 +9586,7 @@ msgstr "Économiser joignez les détails"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Aucun filtre ne s'est appliqué"
+msgstr "Aucun filtre appliqué"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9652,7 +9652,7 @@ msgstr "Note:Le compte de caractère final et le nombre de messages peuvent chan
 msgid ""
 "Max message size of %1 KB exceeded. Please reduce your text or the size of "
 "your image/video"
-msgstr "La taille maximum de message de %1 KBs a excédé.Veuillez réduire votre texte ou la taille de votre image/vidéo"
+msgstr "Taille maximum de message de %1 KBs excédés.Veuillez réduire votre texte ou la taille de votre image/vidéo"
 
 #: ../../../web/Web.Ux/ux/js/pages/new.js:196
 msgid "Upload more files or create and organize your items"
@@ -10032,7 +10032,7 @@ msgstr "Mot de passe de certificat requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:942
 msgid "Valid Certificate File Required"
-msgstr "Le dossier valide de certificat a exigé"
+msgstr "Dossier valide de certificat requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:949
 msgid "Google API Key Required"
@@ -10645,7 +10645,7 @@ msgstr "Valeur capturée :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "La clef a capturé :1."
+msgstr "Clef capturée :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
