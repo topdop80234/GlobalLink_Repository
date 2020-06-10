@@ -2,9 +2,9 @@
     "toast": {
         "email-success": "Email address mis \u00E0 jour",
         "password-success": "Mot de passe mis \u00E0 jour",
-        "phone-success": "Nombre de t\u00E9l\u00E9phone portable mis \u00E0 jour",
+        "phone-success": "Le nombre de t\u00E9l\u00E9phone portable a mis \u00E0 jour",
         "account-number-copied": "Le num\u00E9ro de compte a copi\u00E9",
-        "routing-number-copied": "Le nombre de cheminement a copi\u00E9",
+        "routing-number-copied": "Nombre de cheminement copi\u00E9",
         "set-pin-success": "Placez la BORNE num\u00E9ro",
         "change-pin-success": "BORNE num\u00E9ro chang\u00E9e",
         "new-transactions": "Nouvelles transactions disponibles",
