@@ -4505,7 +4505,7 @@ msgstr "AttentionC'est JSON inadmissible."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "ErreurAucun schéma trouvé."
+msgstr "ErreurAucun schéma n'a trouvé."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "La charge d'arbre s'est interrompue"
+msgstr "Charge d'arbre interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -6667,7 +6667,7 @@ msgstr "Adresse interdite (globale)"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:118
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:226
 msgid "Total Messages Queued"
-msgstr "Les messages totaux se sont alignés"
+msgstr "Messages totaux alignés"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:144
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:250
@@ -7149,11 +7149,11 @@ msgstr "Assistances faites sur commande"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:24
 msgid "User Provided Only"
-msgstr "Utilisateur fourni seulement"
+msgstr "L'utilisateur a fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:25
 msgid "Partner Provided Only"
-msgstr "L'associé a fourni seulement"
+msgstr "Associé fourni seulement"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/ad-audience/setup-facebook-add-ad-audience.directive.js:26
 msgid "Both User and Partner Provided"
@@ -7246,7 +7246,7 @@ msgstr "Choisissez un profil de réponse"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/edp-data-manager/edp-data-manager.component.js:135
 msgid "Settings saved successfully"
-msgstr "Les arrangements ont économisé avec succès"
+msgstr "Arrangements sauvés avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/facebook-audiences/facebook-audiences.component.js:36
 msgid "Ad Accounts"
@@ -9413,7 +9413,7 @@ msgstr "Texte de lien"
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:734
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:1808
 msgid "%1 characters left"
-msgstr "%1 caractères laissés"
+msgstr "%1 caractères sont partis"
 
 #: ../../../web/Web.Ux/ux/js/pages/line-editor.js:681
 msgid "A"
@@ -9586,7 +9586,7 @@ msgstr "Économiser joignez les détails"
 
 #: ../../../web/Web.Ux/ux/js/pages/looping-block.js:383
 msgid "No Filter Applied"
-msgstr "Aucun filtre appliqué"
+msgstr "Aucun filtre ne s'est appliqué"
 
 #: ../../../web/Web.Ux/ux/js/pages/main.js:151
 msgid "Browser Warning"
@@ -9605,7 +9605,7 @@ msgstr "Avec succès fusionné"
 msgid ""
 "Manual merge failed. Please close the window and try again. If the problem "
 "persists, please contact technical support"
-msgstr "La fusion manuelle a échoué.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
+msgstr "La fusion manuelle échoue.Veuillez clôturer la fenêtre et l'essai encore.Si le problème persiste, veuillez l'appui technique de contact"
 
 #: ../../../web/Web.Ux/ux/js/pages/merge.js:58
 msgid "Merging records is not something that can be rolled back or undone."
@@ -10024,7 +10024,7 @@ msgstr "Erreur tout en changeant le calibre."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Nom d'application requis"
+msgstr "Le nom d'application a exigé"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10641,7 +10641,7 @@ msgstr "Texte assorti"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Value Captured: %1"
-msgstr "Valeur capturée :1."
+msgstr "La valeur a capturé :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
