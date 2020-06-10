@@ -131,7 +131,7 @@ msgstr "L'URL de source est absent"
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/insert_object.js:22
 msgctxt "Decomail insert object dialog"
 msgid "Invalid URL entered"
-msgstr "L'URL inadmissible est entré"
+msgstr "URL inadmissible écrit"
 
 #: ../../../web/root/ckeditor/plugins/decomail/dialogs/text_format.js:6
 msgctxt "Decomail format text dialog"
@@ -519,7 +519,7 @@ msgstr "Compte de cellules"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-content.template.html:14
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1128
 msgid "Message Queued"
-msgstr "Message aligné"
+msgstr "Le message s'est aligné"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-launch-results/audit/audit-cross-tabs.template.html:15
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/cell/cell-test-variations.template.html:26
@@ -1964,7 +1964,7 @@ msgstr "Disques de #"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats-versions.template.html:17
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:1926
 msgid "No versions found."
-msgstr "Version n'a pas trouvé."
+msgstr "Aucunes versions trouvées."
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status-stats.template.html:11
 msgid "Pre Token Exchange"
@@ -3029,7 +3029,7 @@ msgstr "Messages totaux"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:8
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2964
 msgid "Date Completed"
-msgstr "Date finie"
+msgstr "La date a accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/review/review-recent-stat.template.html:12
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:2968
@@ -3534,7 +3534,7 @@ msgstr "Édité"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/edp-audience/select-segment-modal.template.html:19
 msgid "Last Published: "
-msgstr "Le bout a édité :"
+msgstr "Bout édité :"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/setup/envelope/email-envelope-attachments.template.html:4
 #: ../../../web/Web.Ux/ux/js/ng/core/i18n/i18n-templates.js:4512
@@ -4172,7 +4172,7 @@ msgstr "OUTRE DE"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:757
 msgid "Approved Email Domain Created"
-msgstr "Le domaine approuvé d'email a créé"
+msgstr "Domaine approuvé d'email créé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:758
 msgid "Approved Email Domain Deleted"
@@ -4252,11 +4252,11 @@ msgstr "Rapportez l'erreur"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:777
 msgid "User Deactivated"
-msgstr "Utilisateur mis hors tension"
+msgstr "L'utilisateur a mis hors tension"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:778
 msgid "User Reactivated"
-msgstr "L'utilisateur a réactivé"
+msgstr "Utilisateur réactivé"
 
 #: ../../../web/Web.Ux/ux/js/common/base/enum.js:779
 msgid "User Reactivated Fail"
@@ -4505,7 +4505,7 @@ msgstr "AttentionC'est JSON inadmissible."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:508
 msgid "Error! No schema found."
-msgstr "ErreurAucun schéma n'a trouvé."
+msgstr "ErreurAucun schéma trouvé."
 
 #: ../../../web/Web.Ux/ux/js/common/edit/edit.js:771
 #: ../../../web/Web.Ux/ux/js/pages/report-core.js:2598
@@ -5780,7 +5780,7 @@ msgstr "Il y avait des problèmes déplaçant des articles, essayent svp encore.
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1438
 msgid "%1 item (out of %2) selected"
 msgid_plural "%1 items (out of %2) selected"
-msgstr[0] "l'article %1 (sur %2) a choisi"
+msgstr[0] "article %1 (sur %2) choisi"
 msgstr[1] "%1 articles (sur %2) choisis"
 
 #: ../../../web/Web.Ux/ux/js/common/utils/list.js:1452
@@ -5798,7 +5798,7 @@ msgstr "plateforme de recherche"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:486
 msgid "Tree load interrupted"
-msgstr "La charge d'arbre s'est interrompue"
+msgstr "Charge d'arbre interrompue"
 
 #: ../../../web/Web.Ux/ux/js/controls/clipboard.js:490
 #: ../../../web/Web.Ux/ux/js/pages/filter.js:303
@@ -5957,7 +5957,7 @@ msgstr "Ce n'est pas un article valide"
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:496
 msgid "No item found."
-msgstr "Aucun article n'a trouvé."
+msgstr "Aucun article trouvé."
 
 #: ../../../web/Web.Ux/ux/js/controls/lookup.js:502
 msgid "Item has no file."
@@ -6362,7 +6362,7 @@ msgstr "Le concepteur content est temporairement indisponible.Veuillez contacter
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:257
 msgid "Design saved successfully"
-msgstr "La conception a économisé avec succès"
+msgstr "Conception sauvée avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:259
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/content/bee-editor/bee-editor.component.js:317
@@ -6528,7 +6528,7 @@ msgstr "Envoi des messages"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:96
 msgid "Messages Sent"
-msgstr "Messages envoyés"
+msgstr "Les messages ont envoyé"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/edp-status-bar.component.js:104
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/camp-processing-state.model.js:122
@@ -6638,7 +6638,7 @@ msgstr "Économiser le lien URLs"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:110
 msgid "Campaign launch completed"
-msgstr "Le lancement de campagne a accompli"
+msgstr "Lancement de campagne accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.model.js:165
 msgid "The previous refresh is still running."
@@ -6667,7 +6667,7 @@ msgstr "Adresse interdite (globale)"
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:118
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:226
 msgid "Total Messages Queued"
-msgstr "Les messages totaux se sont alignés"
+msgstr "Messages totaux alignés"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:144
 #: ../../../web/Web.Ux/ux/js/ng/app/camp-main/launch-status/launch-status.service.js:250
@@ -7246,7 +7246,7 @@ msgstr "Choisissez un profil de réponse"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/edp-data-manager/edp-data-manager.component.js:135
 msgid "Settings saved successfully"
-msgstr "Les arrangements ont économisé avec succès"
+msgstr "Arrangements sauvés avec succès"
 
 #: ../../../web/Web.Ux/ux/js/ng/app/facebook-audiences/facebook-audiences.component.js:36
 msgid "Ad Accounts"
@@ -7363,7 +7363,7 @@ msgstr "Remplacé 1 exemple"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:67
 msgid "Nothing replaced"
-msgstr "Rien n'a remplacé"
+msgstr "Rien remplacé"
 
 #: ../../../web/Web.Ux/ux/js/ng/component/find-replace/find-replace.directive.js:73
 msgid "Replaced "
@@ -7643,7 +7643,7 @@ msgstr "La preuve envoient accompli"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:263
 msgid "Audit & Proof completed"
-msgstr "Auditez et La preuve a accompli"
+msgstr "Auditez et Preuve accomplie"
 
 #: ../../../web/Web.Ux/ux/js/ng/domain/campaign/launch-results.model.js:298
 msgid "Proof cancelled due to 0 records in filter."
@@ -10024,7 +10024,7 @@ msgstr "Erreur tout en changeant le calibre."
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:931
 msgid "Application Name Required"
-msgstr "Le nom d'application a exigé"
+msgstr "Nom d'application requis"
 
 #: ../../../web/Web.Ux/ux/js/pages/pushApplicationConfigurationGroup.js:936
 msgid "Certificate Password Required"
@@ -10641,11 +10641,11 @@ msgstr "Texte assorti"
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:101
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Value Captured: %1"
-msgstr "La valeur a capturé :1."
+msgstr "Valeur capturée :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:105
 msgid "Key Captured: %1"
-msgstr "La clef a capturé :1."
+msgstr "Clef capturée :1."
 
 #: ../../../web/Web.Ux/ux/js/pages/sms-keyword-group.js:110
 msgid "Text did not match regex"
