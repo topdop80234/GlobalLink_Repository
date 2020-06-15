@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:237
 msgctxt "Decomail editor plugin"
-msgid "Align Left"
+msgid "Align Left THIRD EDIT"
 msgstr ""
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:244
