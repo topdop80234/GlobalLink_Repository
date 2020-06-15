@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:226
 msgctxt "Decomail editor plugin"
-msgid "Insert Blink"
+msgid "Insert Blink UPDATE DEMO"
 msgstr ""
 
 #: ../../../web/root/ckeditor/plugins/decomail/plugin.js:237
