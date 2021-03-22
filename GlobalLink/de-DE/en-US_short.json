@@ -1,6 +1,6 @@
 {
     "foundation.actions.admin.projects.EnableProjectAction":    {
-        "confirmationMsg":'You are about to disable a project. This will potentially impact all users, are you sure you want to continue?',
+        "confirmationMsg":'You are about to disable the project. This will potentially impact all users, are you sure you want to continue?',
         "noBtnText":'Cancel',
         "subTitle":'Project disabled',
         "yesBtnText":'Continue'
@@ -11,11 +11,11 @@
         "yesBtnText":'Continue'
     },
     "foundation.actions.ActionPrototype":    {
-        "actionTxt":'{0} T\u00E4tigkeit',
+        "actionTxt":'{0} Aktion',
         "buttonText":'',
         "buttonTooltip":'',
-        "exactlyOne":'{0} T\u00E4tigkeit erfordert genau ein Einzelteil vorgew\u00E4hlt zu werden',
-        "oneOrMore":'{0} T\u00E4tigkeit erfordert eine oder mehrer Einzelteile vorgew\u00E4hlt zu werden'
+        "exactlyOne":'{0} Aktion erfordert genau ein Element, das ausgew\u00E4hlt werden muss',
+        "oneOrMore":'{0} Aktion erfordert, dass ein oder mehrere Elemente ausgew\u00E4hlt werden'
     },
     "foundation.admin.log.Log":    {
         "bufferSize":'Buffer size:',
@@ -68,50 +68,50 @@
     },
     "foundation.appsettings.account.Button":    {
         "account":'Konto',
-        "areYouSureLogout":'Sind Sie Sie heraus sicher zu loggen der Wunsch?',
+        "areYouSureLogout":'Sind Sie sicher, dass Sie sich abmelden m\u00F6chten?',
         "confirmationTxt":'Best\u00E4tigung',
-        "logoutTxt":'Logout',
-        "pleaseWait":'Bitte Wartezeit\u2026',
-        "preferencesTxt":'Pr\u00E4ferenzen',
-        "switchBack":'Schalter-R\u00FCckseite',
+        "logoutTxt":'Abmelden',
+        "pleaseWait":'Bitte warten Sie...',
+        "preferencesTxt":'Einstellungen',
+        "switchBack":'Zur\u00FCck wechseln',
         "warning":'Warnung'
     },
     "foundation.appsettings.account.Impersonate":    {
-        "impersonate":'Impersonate',
-        "impersonateQuestionPart1":'Sie f imsind Begrif, den folgenden Benutzer zu verk\u00F6rpern:',
+        "impersonate":'Sich verk\u00F6rpern',
+        "impersonateQuestionPart1":'Sie sind im Begriff, sich als der folgende Benutzer auszugeben:',
         "impersonateQuestionPart2":'',
-        "impersonateQuestionPart3":'Sind Sie Sie m\u00F6chten fortfahren sicher?',
-        "userImpersonation":'Benutzer-Personifizierung',
-        "pleaseWait":'Ladenbenutzer\u2026',
-        "noImpersonatableUsers":'Keine impersonatable Benutzer.'
+        "impersonateQuestionPart3":'Sind Sie sicher, dass Sie fortfahren m\u00F6chten?',
+        "userImpersonation":'Identit\u00E4t des Benutzers',
+        "pleaseWait":'Benutzer werden geladen...',
+        "noImpersonatableUsers":'Keine unaussprechlichen Benutzer.'
     },
     "foundation.appsettings.Toolbar":    {
-        "goToTxt":'Gehen Sie zu {0}',
+        "goToTxt":'Gehe zu {0}',
         "samlApplications":'Anwendungen'
     },
     "foundation.colorpicker.ColorPicker":    {
         "title":'Farbe Picker',
-        "toCustomButton":'F\u00FCgen Sie Gewohnheit hinzu',
-        "okButton":'O.K.',
-        "cancelButton":'L\u00F6schen',
-        "defaultColorTitle":'R\u00FCckstellung',
-        "customColorTitle":'Gewohnheit'
+        "toCustomButton":'Zur benutzerdefinierten hinzuf\u00FCgen',
+        "okButton":'OK',
+        "cancelButton":'Abbrechen',
+        "defaultColorTitle":'Standard',
+        "customColorTitle":'Ma\u00DFgeschneidert'
     },
     "foundation.defaultdialog.Abstract":    {
-        "pleaseWait":'Bitte Wartezeit\u2026'
+        "pleaseWait":'Bitte warten Sie...'
     },
     "foundation.defaultdialog.TabWindow":    {
-        "apply":'Treffen Sie zu',
-        "cancel":'L\u00F6schen',
+        "apply":'Anwenden',
+        "cancel":'Abbrechen',
         "invalidMark":'*',
-        "ok":'O.K.',
-        "pleaseWait":'Bitte Wartezeit\u2026'
+        "ok":'OK',
+        "pleaseWait":'Bitte warten Sie...'
     },
     "foundation.grid.Panel":    {
-        "emptyText":'Keine Resultate'
+        "emptyText":'Keine Ergebnisse'
     },
     "foundation.filters.summary.fullfilter.item.Combo":    {
-        "availableValues":'Vorhandene Werte',
+        "availableValues":'Verf\u00FCgbare Werte',
         "labelAndValueCell":'{0} {1}'
     },
     "foundation.filters.summary.fullfilter.item.Text":    {
