@@ -1,4 +1,4 @@
-Path|Key|Source (EN_UK)|Target (ES) QA Test
+Path|Key|Source (EN_UK)|Target (ES)
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount|Fractional count|!!Nombre fractionnel
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount.internal|Fractional count internal|!!Nombre fractionnel interne
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount.external|Fractional count external|!!Nombre fractionnel externe
