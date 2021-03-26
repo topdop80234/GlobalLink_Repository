@@ -1,4 +1,4 @@
-Path|Key|Source (EN_UK)|Target (ES) test new again
+Path|Key|Source (EN_UK)|Target (ES)
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount|Fractional count|!!Fractional count
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount.internal|Fractional count internal|!!Fractional count internal
 pure-modules/report-module/templates/runtime/src/main/resources/reporting/dk/atira/pure/modules/report/external/model/reporting-resources|category-metrics.fractionalCount.external|Fractional count external|!!Fractional count external
